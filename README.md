@@ -3,7 +3,10 @@
 An [autocomplete-plus](https://github.com/atom/autocomplete-plus) provider completing French words with the hint of French explanation.
 
 This package requires [autocomplete-plus](https://github.com/atom/autocomplete-plus) and [fuzzaldrin](https://github.com/atom/fuzzaldrin).
-The package [fuzzaldrin](https://github.com/atom/fuzzaldrin) is one of the core package of atom which has been installed by default. This package offers a fuzzy match function which is useful for uncertain words. The dictionary is based on the Oxford advanced learner dictionary.
+The package [fuzzaldrin](https://github.com/atom/fuzzaldrin) is one of the core package of atom which has been installed by default. This package offers a fuzzy match function which is useful for uncertain words. The dictionary is based on [Dictionnaire Électronique des Mots by Jean Dubois et Françoise Dubois-Charlier](http://rali.iro.umontreal.ca/rali/?q=fr/dem). 
+
+	Dubois Jean, Dubois-Charlier Françoise, « La combinatoire lexico-syntaxique dans le Dictionnaire électronique des mots. Les termes du domaine de la musique à titre d'illustration », Langages 3/ 2010 (n° 179-180), p. 31-56.
+	Disponible en ligne pour certaines institutions à : http://www.cairn.info/revue-langages-2010-3-page-31.htm
 
 # Usage
 For the defined file types, it will complete automatically.
